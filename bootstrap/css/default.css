@@ -1,0 +1,39 @@
+﻿.jumbotron {
+    width: 600px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.table {
+    margin-top: 10px;
+}
+
+.selecionado {
+    background-color: #0094ff;
+}
+
+.negrito {
+    font-weight: bold;
+}
+
+.dir-alerta {
+    background-color: #f2dede;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.dir-alerta-title {
+    color: #af4341;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.dir-alerta-mensagem {
+    color: #af4341;
+}
