@@ -1,2 +1,2 @@
-# Curso-AngularJS
+# Curso AngularJS
 Udemy course: Curso de Angular JS
